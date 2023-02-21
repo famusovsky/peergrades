@@ -1,0 +1,16 @@
+C:\Users\mr-si\RiderProjects\bullycows\bullycows\bin\Debug\net5.0\bullycows.exe
+C:\Users\mr-si\RiderProjects\bullycows\bullycows\bin\Debug\net5.0\bullycows.deps.json
+C:\Users\mr-si\RiderProjects\bullycows\bullycows\bin\Debug\net5.0\bullycows.runtimeconfig.json
+C:\Users\mr-si\RiderProjects\bullycows\bullycows\bin\Debug\net5.0\bullycows.runtimeconfig.dev.json
+C:\Users\mr-si\RiderProjects\bullycows\bullycows\bin\Debug\net5.0\bullycows.dll
+C:\Users\mr-si\RiderProjects\bullycows\bullycows\bin\Debug\net5.0\ref\bullycows.dll
+C:\Users\mr-si\RiderProjects\bullycows\bullycows\bin\Debug\net5.0\bullycows.pdb
+C:\Users\mr-si\RiderProjects\bullycows\bullycows\obj\Debug\net5.0\bullycows.csprojAssemblyReference.cache
+C:\Users\mr-si\RiderProjects\bullycows\bullycows\obj\Debug\net5.0\bullycows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mr-si\RiderProjects\bullycows\bullycows\obj\Debug\net5.0\bullycows.AssemblyInfoInputs.cache
+C:\Users\mr-si\RiderProjects\bullycows\bullycows\obj\Debug\net5.0\bullycows.AssemblyInfo.cs
+C:\Users\mr-si\RiderProjects\bullycows\bullycows\obj\Debug\net5.0\bullycows.csproj.CoreCompileInputs.cache
+C:\Users\mr-si\RiderProjects\bullycows\bullycows\obj\Debug\net5.0\bullycows.dll
+C:\Users\mr-si\RiderProjects\bullycows\bullycows\obj\Debug\net5.0\ref\bullycows.dll
+C:\Users\mr-si\RiderProjects\bullycows\bullycows\obj\Debug\net5.0\bullycows.pdb
+C:\Users\mr-si\RiderProjects\bullycows\bullycows\obj\Debug\net5.0\bullycows.genruntimeconfig.cache

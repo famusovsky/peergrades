@@ -1,0 +1,12 @@
+C:\Users\mr-si\Desktop\there is an imposter among us\EKRLib\EKRLib\bin\Debug\net5.0\EKRLib.deps.json
+C:\Users\mr-si\Desktop\there is an imposter among us\EKRLib\EKRLib\bin\Debug\net5.0\EKRLib.dll
+C:\Users\mr-si\Desktop\there is an imposter among us\EKRLib\EKRLib\bin\Debug\net5.0\ref\EKRLib.dll
+C:\Users\mr-si\Desktop\there is an imposter among us\EKRLib\EKRLib\bin\Debug\net5.0\EKRLib.pdb
+C:\Users\mr-si\Desktop\there is an imposter among us\EKRLib\EKRLib\obj\Debug\net5.0\EKRLib.csprojAssemblyReference.cache
+C:\Users\mr-si\Desktop\there is an imposter among us\EKRLib\EKRLib\obj\Debug\net5.0\EKRLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mr-si\Desktop\there is an imposter among us\EKRLib\EKRLib\obj\Debug\net5.0\EKRLib.AssemblyInfoInputs.cache
+C:\Users\mr-si\Desktop\there is an imposter among us\EKRLib\EKRLib\obj\Debug\net5.0\EKRLib.AssemblyInfo.cs
+C:\Users\mr-si\Desktop\there is an imposter among us\EKRLib\EKRLib\obj\Debug\net5.0\EKRLib.csproj.CoreCompileInputs.cache
+C:\Users\mr-si\Desktop\there is an imposter among us\EKRLib\EKRLib\obj\Debug\net5.0\EKRLib.dll
+C:\Users\mr-si\Desktop\there is an imposter among us\EKRLib\EKRLib\obj\Debug\net5.0\ref\EKRLib.dll
+C:\Users\mr-si\Desktop\there is an imposter among us\EKRLib\EKRLib\obj\Debug\net5.0\EKRLib.pdb

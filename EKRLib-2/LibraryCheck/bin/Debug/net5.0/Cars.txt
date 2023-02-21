@@ -1,0 +1,4 @@
+Car. Model: 58834, Power: 82
+Car. Model: D7IZ6, Power: 98
+Car. Model: D7OK9, Power: 61
+Car. Model: DS9R4, Power: 26

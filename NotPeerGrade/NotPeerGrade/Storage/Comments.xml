@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NotPeerGrade</name>
+    </assembly>
+    <members>
+        <member name="T:NotPeerGrade.Controllers.LettersController">
+            <summary>
+            Контроллер класса Letter.
+            </summary>
+        </member>
+        <member name="M:NotPeerGrade.Controllers.LettersController.Post">
+            <summary>
+            Генерирует случайный список сообщений.
+            </summary>
+            <returns>Объект IActionResult, в случае успеха содержащий полученный список.</returns>
+        </member>
+        <member name="M:NotPeerGrade.Controllers.LettersController.Post(NotPeerGrade.Models.Letter)">
+            <summary>
+            Добавляет информацию о новом сообщении.
+            </summary>
+            <param name="letter">Отправленное сообщение.</param>
+            <returns>Объект IActionResult, в случае успеха содержащий отправленное сообщение.</returns>
+        </member>
+        <member name="M:NotPeerGrade.Controllers.LettersController.PostBody(NotPeerGrade.Models.Letter)">
+            <summary>
+            Добавляет информацию о новом сообщении, полученном из JSON.
+            </summary>
+            <param name="letter">Отправленное сообщение.</param>
+            <returns>Объект IActionResult, в случае успеха содержащий отправленное сообщение.</returns>
+        </member>
+        <member name="M:NotPeerGrade.Controllers.LettersController.GetBySender(System.String)">
+            <summary>
+            Возвращает список сообщений, отправленных данным пользователем.
+            </summary>
+            <param name="senderId">Email пользователя, список сообщений от которого запрашивается.</param>
+            <returns>Объект IActionResult, в случае успеха содержащий полученный список.</returns>
+        </member>
+        <member name="M:NotPeerGrade.Controllers.LettersController.GetByReceiver(System.String)">
+            <summary>
+            Возвращает список сообщений, отправленных данному пользователелю.
+            </summary>
+            <param name="receiverId">Email пользователя, список сообщений которому запрашивается.</param>
+            <returns>Объект IActionResult, в случае успеха содержащий полученный список.</returns>
+        </member>
+        <member name="M:NotPeerGrade.Controllers.LettersController.GetByBoth(System.String,System.String)">
+            <summary>
+            Возвращает список сообщений, отправленных одним из данных пользователей другому.
+            </summary>
+            <param name="senderId">Email пользователя, список сообщений от которого запрашивается.</param>
+            <param name="receiverId">Email пользователя, список сообщений которому запрашивается.</param>
+            <returns>Объект IActionResult, в случае успеха содержащий полученный список.</returns>
+        </member>
+        <member name="M:NotPeerGrade.Controllers.LettersController.ReadList">
+            <summary>
+            Метод, совершающий десериализацию списка сообщений из JSON-файла.
+            </summary>
+            <returns>Список сообщений.</returns>
+        </member>
+        <member name="T:NotPeerGrade.Controllers.UsersController">
+            <summary>
+            Контроллер класса User.
+            </summary>
+        </member>
+        <member name="M:NotPeerGrade.Controllers.UsersController.Post">
+            <summary>
+            Генерирует случайный список пользователей.
+            </summary>
+            <returns>Объект IActionResult, в случае успеха содержащий полученный список.</returns>
+        </member>
+        <member name="M:NotPeerGrade.Controllers.UsersController.Post(NotPeerGrade.Models.User)">
+            <summary>
+            Добавляет информацию о новом пользователе.
+            </summary>
+            <param name="user">Новый пользователь.</param>
+            <returns>Объект IActionResult, в случае успеха содержащий полученного пользователя.</returns>
+        </member>
+        <member name="M:NotPeerGrade.Controllers.UsersController.PostBody(NotPeerGrade.Models.User)">
+            <summary>
+            Добавляет информацию о новом пользователе, полученном из JSON.
+            </summary>
+            <param name="user">Новый пользователь.</param>
+            <returns>Объект IActionResult, в случае успеха содержащий полученного пользователя.</returns>
+        </member>
+        <member name="M:NotPeerGrade.Controllers.UsersController.Get">
+            <summary>
+            Возвращает список всех пользователей.
+            </summary>
+            <returns>Объект IActionResult, в случае успеха содержащий полученный список.</returns>
+        </member>
+        <member name="M:NotPeerGrade.Controllers.UsersController.Get(System.String)">
+            <summary>
+            Возвращает пользователя с заданным Email-ом.
+            </summary>
+            <param name="email">Email искомого пользователя.</param>
+            <returns>Объект IActionResult, в случае успеха содержащий полученного пользователя.</returns>
+        </member>
+        <member name="M:NotPeerGrade.Controllers.UsersController.ReadList">
+            <summary>
+            Метод, совершающий десериализацию списка пользователей из JSON-файла.
+            </summary>
+            <returns>Список пользователей.</returns>
+        </member>
+        <member name="T:NotPeerGrade.Models.Letter">
+            <summary>
+            Класс, представляющий сообщение.
+            </summary>
+        </member>
+        <member name="P:NotPeerGrade.Models.Letter.Subject">
+            <summary>
+            Свойство, представляющее тему сообщения.
+            </summary>
+        </member>
+        <member name="P:NotPeerGrade.Models.Letter.Message">
+            <summary>
+            Свойство, представляющее текст сообщения.
+            </summary>
+        </member>
+        <member name="P:NotPeerGrade.Models.Letter.SenderId">
+            <summary>
+            Свойство, представляющее Email отправителя сообщения.
+            </summary>
+        </member>
+        <member name="P:NotPeerGrade.Models.Letter.ReceiverId">
+            <summary>
+            Свойство, представляющее Email получателя сообщения.
+            </summary>
+        </member>
+        <member name="M:NotPeerGrade.Models.Letter.#ctor(System.String,System.String)">
+            <summary>
+            Конструктор, создающий сообщение со случайным темой и текстом.
+            </summary>
+            <param name="senderId">Email отправителя сообщения.</param>
+            <param name="receiverId">Email получателя сообщения.</param>
+        </member>
+        <member name="T:NotPeerGrade.Models.User">
+            <summary>
+            Класс, представляющий пользователя.
+            </summary>
+        </member>
+        <member name="P:NotPeerGrade.Models.User.Email">
+            <summary>
+            Свойство, представляющее Email пользователя.
+            </summary>
+        </member>
+        <member name="P:NotPeerGrade.Models.User.UserName">
+            <summary>
+            Свойство, представляющее имя пользователя.
+            </summary>
+        </member>
+        <member name="M:NotPeerGrade.Models.User.#ctor">
+            <summary>
+            Конструктор, создающий случайного пользователя.
+            </summary>
+        </member>
+        <member name="T:NotPeerGrade.Program">
+            <summary>
+            Основной класс программы.
+            </summary>
+        </member>
+    </members>
+</doc>

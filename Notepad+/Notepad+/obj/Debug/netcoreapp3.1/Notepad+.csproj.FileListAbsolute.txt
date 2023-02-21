@@ -1,0 +1,17 @@
+C:\Users\mr-si\source\repos\Notepad+\Notepad+\bin\Debug\netcoreapp3.1\Notepad+.exe
+C:\Users\mr-si\source\repos\Notepad+\Notepad+\bin\Debug\netcoreapp3.1\Notepad+.deps.json
+C:\Users\mr-si\source\repos\Notepad+\Notepad+\bin\Debug\netcoreapp3.1\Notepad+.runtimeconfig.json
+C:\Users\mr-si\source\repos\Notepad+\Notepad+\bin\Debug\netcoreapp3.1\Notepad+.runtimeconfig.dev.json
+C:\Users\mr-si\source\repos\Notepad+\Notepad+\bin\Debug\netcoreapp3.1\Notepad+.dll
+C:\Users\mr-si\source\repos\Notepad+\Notepad+\bin\Debug\netcoreapp3.1\Notepad+.pdb
+C:\Users\mr-si\source\repos\Notepad+\Notepad+\obj\Debug\netcoreapp3.1\Notepad+.csprojAssemblyReference.cache
+C:\Users\mr-si\source\repos\Notepad+\Notepad+\obj\Debug\netcoreapp3.1\Notepad+.csproj.GenerateResource.cache
+C:\Users\mr-si\source\repos\Notepad+\Notepad+\obj\Debug\netcoreapp3.1\Notepad+.AssemblyInfoInputs.cache
+C:\Users\mr-si\source\repos\Notepad+\Notepad+\obj\Debug\netcoreapp3.1\Notepad+.AssemblyInfo.cs
+C:\Users\mr-si\source\repos\Notepad+\Notepad+\obj\Debug\netcoreapp3.1\Notepad+.csproj.CoreCompileInputs.cache
+C:\Users\mr-si\source\repos\Notepad+\Notepad+\obj\Debug\netcoreapp3.1\Notepad+.dll
+C:\Users\mr-si\source\repos\Notepad+\Notepad+\obj\Debug\netcoreapp3.1\Notepad+.pdb
+C:\Users\mr-si\source\repos\Notepad+\Notepad+\obj\Debug\netcoreapp3.1\Notepad+.genruntimeconfig.cache
+C:\Users\mr-si\source\repos\Notepad+\Notepad+\obj\Debug\netcoreapp3.1\Notepad_.ErrorForm.resources
+C:\Users\mr-si\source\repos\Notepad+\Notepad+\obj\Debug\netcoreapp3.1\Notepad_.MainForm.resources
+C:\Users\mr-si\source\repos\Notepad+\Notepad+\obj\Debug\netcoreapp3.1\Notepad_.Properties.Resources.resources

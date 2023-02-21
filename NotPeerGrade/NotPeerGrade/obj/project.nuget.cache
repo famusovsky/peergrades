@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MsIoO/VjQ4WrJq6u8WD2v+Gwvt7HMHYomAwqed/WzrrNBIffJreHkLKuZBykKadV1B9auYCWWnlyMm7YpLPGFg==",
+  "success": true,
+  "projectFilePath": "/Users/alexeystepanov/RiderProjects/NotPeerGrade/NotPeerGrade/NotPeerGrade.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexeystepanov/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/alexeystepanov/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/alexeystepanov/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/alexeystepanov/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/alexeystepanov/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/alexeystepanov/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

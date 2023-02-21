@@ -1,0 +1,5 @@
+MotorBoat. Model: 106GX, Power: 68
+MotorBoat. Model: XSEV4, Power: 83
+MotorBoat. Model: 402WU, Power: 81
+MotorBoat. Model: DS0W2, Power: 49
+MotorBoat. Model: 18D80, Power: 76

@@ -1,0 +1,22 @@
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\bin\Debug\net5.0-windows\Fractal Thing.exe
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\bin\Debug\net5.0-windows\Fractal Thing.deps.json
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\bin\Debug\net5.0-windows\Fractal Thing.runtimeconfig.json
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\bin\Debug\net5.0-windows\Fractal Thing.runtimeconfig.dev.json
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\bin\Debug\net5.0-windows\Fractal Thing.dll
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\bin\Debug\net5.0-windows\ref\Fractal Thing.dll
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\bin\Debug\net5.0-windows\Fractal Thing.pdb
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\obj\Debug\net5.0-windows\Fractal Thing.csprojAssemblyReference.cache
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\obj\Debug\net5.0-windows\Fractal Thing_MarkupCompile.cache
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\obj\Debug\net5.0-windows\Fractal Thing_MarkupCompile.lref
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\obj\Debug\net5.0-windows\Fractal Thing.g.resources
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\obj\Debug\net5.0-windows\Fractal Thing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\obj\Debug\net5.0-windows\Fractal Thing.AssemblyInfoInputs.cache
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\obj\Debug\net5.0-windows\Fractal Thing.AssemblyInfo.cs
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\obj\Debug\net5.0-windows\Fractal Thing.csproj.CoreCompileInputs.cache
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\obj\Debug\net5.0-windows\Fractal Thing.dll
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\obj\Debug\net5.0-windows\ref\Fractal Thing.dll
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\obj\Debug\net5.0-windows\Fractal Thing.pdb
+C:\Users\mr-si\Desktop\Fractal Thing\Fractal Thing\obj\Debug\net5.0-windows\Fractal Thing.genruntimeconfig.cache
